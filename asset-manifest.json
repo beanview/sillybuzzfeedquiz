@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sillybuzzfeedquiz/static/css/main.eef4a964.css",
+    "main.js": "/sillybuzzfeedquiz/static/js/main.2fb55599.js",
+    "static/js/453.ed3810f9.chunk.js": "/sillybuzzfeedquiz/static/js/453.ed3810f9.chunk.js",
+    "static/media/orangecat.webp": "/sillybuzzfeedquiz/static/media/orangecat.4fa1ecfa3e2d0be6e72a.webp",
+    "static/media/goldenretriever.jpeg": "/sillybuzzfeedquiz/static/media/goldenretriever.65e24fc75f29a5223707.jpeg",
+    "static/media/chickentikka.svg": "/sillybuzzfeedquiz/static/media/chickentikka.d428d3261ae06b619f44a9f3d27ab144.svg",
+    "static/media/blackcat.jpeg": "/sillybuzzfeedquiz/static/media/blackcat.9fb4582ec66d4c03d264.jpeg",
+    "static/media/doberman.webp": "/sillybuzzfeedquiz/static/media/doberman.d771ff4bd7568b506652.webp",
+    "index.html": "/sillybuzzfeedquiz/index.html",
+    "static/media/quiz.svg": "/sillybuzzfeedquiz/static/media/quiz.18b5a8021e7a7e58514a0f38db1b863d.svg",
+    "main.eef4a964.css.map": "/sillybuzzfeedquiz/static/css/main.eef4a964.css.map",
+    "main.2fb55599.js.map": "/sillybuzzfeedquiz/static/js/main.2fb55599.js.map",
+    "453.ed3810f9.chunk.js.map": "/sillybuzzfeedquiz/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eef4a964.css",
+    "static/js/main.2fb55599.js"
+  ]
+}
