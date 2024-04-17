@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eef4a964.css",
+    "main.js": "/static/js/main.b8fb82e4.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/orangecat.webp": "/static/media/orangecat.4fa1ecfa3e2d0be6e72a.webp",
+    "static/media/goldenretriever.jpeg": "/static/media/goldenretriever.65e24fc75f29a5223707.jpeg",
+    "static/media/chickentikka.svg": "/static/media/chickentikka.d428d3261ae06b619f44a9f3d27ab144.svg",
+    "static/media/blackcat.jpeg": "/static/media/blackcat.9fb4582ec66d4c03d264.jpeg",
+    "static/media/doberman.webp": "/static/media/doberman.d771ff4bd7568b506652.webp",
+    "static/media/quiz.svg": "/static/media/quiz.18b5a8021e7a7e58514a0f38db1b863d.svg",
+    "index.html": "/index.html",
+    "main.eef4a964.css.map": "/static/css/main.eef4a964.css.map",
+    "main.b8fb82e4.js.map": "/static/js/main.b8fb82e4.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eef4a964.css",
+    "static/js/main.b8fb82e4.js"
+  ]
+}
